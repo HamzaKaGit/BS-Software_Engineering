@@ -1,0 +1,7 @@
+Foreign Key can be duplicated 
+
+Foreign Key is NON KEY Column
+
+There Should be NO Fixed Pair between non key columns, its a problem,so remove it.
+
+If table has only one NON Key column, then it is impossible that it will create Transitive Dependancy i.e. NO problems will be created
