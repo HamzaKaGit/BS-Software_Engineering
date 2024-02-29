@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+        background-color: white;
+        font-family: Arial, sans-serif;
+      }
+      .todo-container {
+        width: 300px;
+        margin: auto;
+        background-color: #f0f0f0;
+        padding: 20px;
+        border-radius: 8px;
+      }
+      .todo-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="todo-container">
+      <h2>To-Do List</h2>
+      <input id="taskInput" type="text" placeholder="Enter a task" />
+      <button onclick="addTask()">Add</button>
+      <div id="todoList"></div>
+    </div>
+    <script>
+      // Add a task to the list of tasks when the user clicks the Add button.
+      function addTask() {
+        var taskInput = document.getElementById("taskInput");
+        var todoList = document.getElementById("todoList");
+        if (taskInput.value === "") {
+          alert("Please enter a task.");
+          return;
+        }
+        // Create a new task item and add it to the list of tasks.
+        var div = document.createElement("div");
+        div.className = "todo-item";
+        div.innerHTML =
+          '<input type="checkbox">' +
+          "=> " +
+          taskInput.value +
+          '<button onclick="deleteTask(this)">Delete</button>';
+        todoList.appendChild(div);
+        taskInput.value = "";
+      }
+      // Delete a task from the list of tasks when the user clicks the Delete button.
+      function deleteTask(button) {
+        button.parentElement.remove();
+      }
+    </script>
+  </body>
+</html>
