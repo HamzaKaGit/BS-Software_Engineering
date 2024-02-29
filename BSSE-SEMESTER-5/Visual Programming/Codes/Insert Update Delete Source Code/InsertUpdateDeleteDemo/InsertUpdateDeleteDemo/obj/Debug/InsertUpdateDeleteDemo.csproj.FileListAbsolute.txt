@@ -1,0 +1,17 @@
+C:\Users\Anoop Kumar Sharma\documents\visual studio 2012\Projects\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.Properties.Resources.resources
+C:\Users\Anoop Kumar Sharma\documents\visual studio 2012\Projects\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.csproj.GenerateResource.Cache
+C:\Users\Anoop Kumar Sharma\documents\visual studio 2012\Projects\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\bin\Debug\InsertUpdateDeleteDemo.exe
+C:\Users\Anoop Kumar Sharma\documents\visual studio 2012\Projects\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\bin\Debug\InsertUpdateDeleteDemo.pdb
+C:\Users\Anoop Kumar Sharma\documents\visual studio 2012\Projects\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.exe
+C:\Users\Anoop Kumar Sharma\documents\visual studio 2012\Projects\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.pdb
+C:\Users\Anoop Kumar Sharma\documents\visual studio 2012\Projects\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.csprojResolveAssemblyReference.cache
+C:\Users\Anoop Kumar Sharma\documents\visual studio 2012\Projects\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.frmMain.resources
+C:\Users\Mohib Khan\Downloads\InsertUpdateDeleteSourceCode\Insert Update Delete Source Code\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\bin\Debug\InsertUpdateDeleteDemo.exe
+C:\Users\Mohib Khan\Downloads\InsertUpdateDeleteSourceCode\Insert Update Delete Source Code\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\bin\Debug\InsertUpdateDeleteDemo.pdb
+C:\Users\Mohib Khan\Downloads\InsertUpdateDeleteSourceCode\Insert Update Delete Source Code\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.csproj.AssemblyReference.cache
+C:\Users\Mohib Khan\Downloads\InsertUpdateDeleteSourceCode\Insert Update Delete Source Code\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.frmMain.resources
+C:\Users\Mohib Khan\Downloads\InsertUpdateDeleteSourceCode\Insert Update Delete Source Code\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.Properties.Resources.resources
+C:\Users\Mohib Khan\Downloads\InsertUpdateDeleteSourceCode\Insert Update Delete Source Code\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.csproj.GenerateResource.cache
+C:\Users\Mohib Khan\Downloads\InsertUpdateDeleteSourceCode\Insert Update Delete Source Code\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mohib Khan\Downloads\InsertUpdateDeleteSourceCode\Insert Update Delete Source Code\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.exe
+C:\Users\Mohib Khan\Downloads\InsertUpdateDeleteSourceCode\Insert Update Delete Source Code\InsertUpdateDeleteDemo\InsertUpdateDeleteDemo\obj\Debug\InsertUpdateDeleteDemo.pdb
