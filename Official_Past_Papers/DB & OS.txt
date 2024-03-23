@@ -1,0 +1,16 @@
+Most Important Concepts for Operating systems
+ 
+Prepare Scheduling Algorithms
+Why System Calls are used?
+Implementation of environment Variables
+Process state diagram
+Process control block
+Interprocess communication using Concatenation operator
+Scheduling Queues
+
+
+Important Concepts for Database Systems Paper
+
+Develop ERD on Given Scenario
+Design and Normalize tables upto 3NF
+Three Tier Schema Architecture

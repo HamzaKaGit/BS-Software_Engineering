@@ -1,0 +1,11 @@
+CS 6th Semester AI Paper (Mor):
+
+Q1: A Scenario Based Question of Designing Expert System Architecture of Tumor Machine.
+
+Q2: Define Superwised, Unsupervised, Clustering, Regression and Reinforcement Learning.
+
+Q3: Naive Based Implementation
+
+Q4: KNN Algo 
+
+Q5: Find Precision and Accuracy using K-Mean Clustering.

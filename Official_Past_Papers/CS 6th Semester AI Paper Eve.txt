@@ -1,0 +1,9 @@
+CS 6th Semester AI Paper (Eve): 
+
+Q1: What is ANN and how it Corresponds to Human Neural Networks?
+
+Q2: Using the Given Brightness and Exposure, Tell the Color of the Car using KNN Algorithm.
+
+Q3: What is Clustering? Find and Draw New Cluster after Each Iteration.
+
+Q4: Using Naive Based Algorithm, Find whether the Car is Stolen or not?
